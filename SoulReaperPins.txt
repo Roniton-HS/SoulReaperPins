@@ -9,7 +9,7 @@
 ## Author: |cFFD700Roniton|r
 ## Version: 1.0.0
 ## APIVersion: 101046
-## DependsOn: LibMapPins-1.0
+## DependsOn: LibMapPins-1.0>=10043
 ## SavedVariables: SoulReaperPins
 
 SoulReaperPins.lua
