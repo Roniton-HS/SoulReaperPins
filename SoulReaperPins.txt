@@ -5,7 +5,7 @@
 ; You can read the full terms at https://account.elderscrollsonline.com/add-on-terms
 
 ## Title: SoulReaperPins
-## Description: Description
+## Description: Marks Soul Reaper Devices / Dark Fissures (mini dolmen) on the map
 ## Author: Roniton
 ## Version: 1.0.0
 ## APIVersion: 101040
